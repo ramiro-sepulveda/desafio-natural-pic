@@ -1,13 +1,5 @@
-# React + Vite
+Ramiro Sepúlveda
+Desafio desarrollado individualmente
 
-## Install
-
-```bash
-npm install
-```
-
-## Run
-
-```bash
-npm run dev
-```
+Deploy:
+https://ramiro-sepulveda.github.io/desafio-natural-pic/
