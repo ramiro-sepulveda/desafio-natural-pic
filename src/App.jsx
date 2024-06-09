@@ -14,8 +14,8 @@ const App = () => {
         <Navbar />
 
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/favoritos" element={<Favorites />} />
+          <Route path="/desafio-natural-pic/" element={<Home />} />
+          <Route path="/desafio-natural-pic/favoritos" element={<Favorites />} />
         </Routes>
       </PhotosProvider>
     </div>
